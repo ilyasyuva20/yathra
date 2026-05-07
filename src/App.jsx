@@ -11,7 +11,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
             <a href="#" aria-label="Yathra Trendy Collections Home" className="flex flex-col items-center justify-center text-center">
-              <img src="/logo.png" alt="Yathra Logo" className="h-16 md:h-20 w-auto object-contain" />
+              <img src="/logo.jpeg" alt="Yathra Logo" className="h-16 md:h-20 w-auto object-contain" />
             </a>
           </div>
 
@@ -363,7 +363,7 @@ const Footer = () => {
         
         <a href="#" aria-label="Yathra Trendy Collections Home" className="flex flex-col items-center justify-center text-center mb-10">
           <div className="bg-white p-4 rounded-md">
-            <img src="/logo.png" alt="Yathra Logo" className="h-16 w-auto object-contain" />
+            <img src="/logo.jpeg" alt="Yathra Logo" className="h-16 w-auto object-contain" />
           </div>
         </a>
 
