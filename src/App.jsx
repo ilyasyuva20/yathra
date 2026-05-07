@@ -369,7 +369,7 @@ const Footer = () => {
 
         <div className="flex space-x-8 mb-12">
           <a href="https://www.instagram.com/yathra_trendy_collections/" target="_blank" rel="noreferrer" aria-label="Visit our Instagram page" className="text-xs uppercase tracking-widest text-gray-400 hover:text-premium-gold transition-colors">Instagram</a>
-          <a href="#" aria-label="Visit our Facebook page" className="text-xs uppercase tracking-widest text-gray-400 hover:text-premium-gold transition-colors">Facebook</a>
+          <a href="https://www.facebook.com/yathralifestyle/" target="_blank" rel="noreferrer" aria-label="Visit our Facebook page" className="text-xs uppercase tracking-widest text-gray-400 hover:text-premium-gold transition-colors">Facebook</a>
           <a href="https://maps.google.com/?q=Galleria+shopping+complex+Vaduthala" target="_blank" rel="noreferrer" aria-label="View our location on Google Maps" className="text-xs uppercase tracking-widest text-gray-400 hover:text-premium-gold transition-colors">Google Maps</a>
         </div>
 
