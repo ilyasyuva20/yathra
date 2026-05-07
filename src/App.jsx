@@ -11,7 +11,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
             <a href="#" aria-label="Yathra Trendy Collections Home" className="flex flex-col items-center justify-center text-center">
-              <img src="/logo.jpeg" alt="Yathra Logo" className="h-16 md:h-20 w-auto object-contain" />
+              <img src="/logo.jpeg" alt="Yathra Logo" className="h-16 md:h-20 w-auto object-contain mix-blend-multiply" />
             </a>
           </div>
 
