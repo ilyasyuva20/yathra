@@ -11,8 +11,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
             <a href="#" aria-label="Yathra Trendy Collections Home" className="flex flex-col items-center justify-center text-center">
-              <span className="font-serif text-2xl md:text-3xl font-medium tracking-[0.15em] text-premium-black leading-none">YATHRA</span>
-              <span className="text-premium-gold text-[0.65rem] font-sans tracking-[0.3em] uppercase mt-2">Trendy Collections</span>
+              <img src="/logo.png" alt="Yathra Logo" className="h-16 md:h-20 w-auto object-contain" />
             </a>
           </div>
 
@@ -363,8 +362,9 @@ const Footer = () => {
       <div className="max-w-[90rem] mx-auto px-4 sm:px-6 lg:px-12 flex flex-col items-center text-center">
         
         <a href="#" aria-label="Yathra Trendy Collections Home" className="flex flex-col items-center justify-center text-center mb-10">
-          <span className="font-serif text-2xl font-medium tracking-[0.15em] text-white leading-none">YATHRA</span>
-          <span className="text-premium-gold text-[0.55rem] font-sans tracking-[0.3em] uppercase mt-2">Trendy Collections</span>
+          <div className="bg-white p-4 rounded-md">
+            <img src="/logo.png" alt="Yathra Logo" className="h-16 w-auto object-contain" />
+          </div>
         </a>
 
         <div className="flex space-x-8 mb-12">
